@@ -1,67 +1,107 @@
 <data>
     <from>https://www.epochtimes.com/gb/20/1/29/n11830628.htm</from>
     <update>2020/01/30</update>
-    <country>中国</country>
+    <country>
+        <name>中国</name>
         <update>2020/01/29</update>
         <confirmed>4515</confirmed>
         <died>106</died>
-    <country>香港</country>
+    </country>
+    <country>
+        <name>香港</name>
         <update>2020/01/30</update>
         <confirmed>10</confirmed>
         <died>0</died>
-    <country>澳门</country>
+    </country>
+    <country>
+        <name>澳门</name>
         <confirmed>7</confirmed>
         <died>0</died>
-    <country>台湾</country>
+    </country>
+    <country>
+        <name>台湾</name>
         <confirmed>8</confirmed>
         <died>0</died>
-    <country>日本</country>
+    </country>
+    <country>
+        <name>日本</name>
         <update>2020/01/30</update>
         <confirmed>8</confirmed>
         <died>0</died>
-    <country>韩国</country>
+    </country>
+    <country>
+        <name>韩国</name>
         <confirmed>4</confirmed>
-        <died>0</died>  
-    <country>泰国</country>
+        <died>0</died>
+    </country>
+    <country>
+        <name>泰国</name>
         <confirmed>14</confirmed>
         <died>0</died>   
-    <country>新加坡</country>
+    </country>
+    <country>
+        <name>新加坡</name>
         <confirmed>5</confirmed>
         <died>0</died> 
-    <country>越南</country>
+    </country>
+    <country>
+        <name>越南</name>
         <confirmed>2</confirmed>
         <died>0</died>
-    <country>尼泊尔</country>
+    </country>
+    <country>
+        <name>尼泊尔</name>
         <confirmed>1</confirmed>
         <died>0</died>
-    <country>马来西亚</country>
+    </country>
+    <country>
+        <name>马来西亚</name>
         <confirmed>7</confirmed>
         <died>0</died>
-    <country>美国</country>
+    </country>
+    <country>
+        <name>美国</name>
         <confirmed>5</confirmed>
         <died>0</died>
-    <country>澳大利亚</country>
+    </country>
+    <country>
+        <name>澳大利亚</name>
         <confirmed>6</confirmed>
         <died>0</died>
-    <country>法国</country>
+    </country>
+    <country>
+        <name>法国</name>
         <confirmed>5</confirmed>
         <died>0</died>
-    <country>加拿大</country>
+    </country>
+    <country>
+        <name>加拿大</name>
         <confirmed>2</confirmed>
         <died>0</died>
-    <country>德国</country>
+    </country>
+    <country>
+        <name>德国</name>
         <confirmed>4</confirmed>
         <died>0</died>
-    <country>芬兰</country>
+    </country>
+    <country>
+        <name>芬兰</name>
         <confirmed>1</confirmed>
         <died>0</died>
-    <country>斯里兰卡</country>
+    </country>
+    <country>
+        <name>斯里兰卡</name>
         <confirmed>1</confirmed>
         <died>0</died>
-    <country>柬埔寨</country>
+    </country>
+    <country>
+        <name>柬埔寨</name>
         <confirmed>1</confirmed>
         <died>0</died>
-    <country>阿拉伯联合酋长国</country>
+    </country>
+    <country>
+        <name>阿拉伯联合酋长国</name>
         <confirmed>1</confirmed>
         <died>0</died>
+    </country>
 </data>
